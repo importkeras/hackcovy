@@ -12,6 +12,7 @@
 * [Requisites](#requisites)
 * [Setup](#setup)
   * [Run code](#run-code)
+* Report
 * [References](#references)
 
 ## Screenshot
@@ -50,8 +51,12 @@ pip install -r requirements.txt
 The main and GUI code is in hackcovy.py.
 To test whether the setup was successful, run the following command to use program GUI.
 ```
-python hackcovy.py.
+python hackcovy.py
 ```
+## Report
+
+* PDF Report (https://drive.google.com/file/d/1WjqFcW9pShT29z72sz66JAAxUEPVGg9y/view?usp=sharing)
+* Youtube Video
 
 ## References
 
