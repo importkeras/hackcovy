@@ -56,7 +56,7 @@ python hackcovy.py
 ## Report
 
 * PDF Report (https://drive.google.com/file/d/1WjqFcW9pShT29z72sz66JAAxUEPVGg9y/view?usp=sharing)
-* Youtube Video
+* Youtube Video (https://www.youtube.com/watch?v=OSZc5mkLriA&feature=youtu.be)
 
 ## References
 
