@@ -4,14 +4,21 @@
 <p float="left">
   <img src="github/1.jpg" width="256" hspace="20"/>
   <img src="github/2.jpg" width="256" hspace="20"/> 
-  <img src="github/3.jng" width="256"/> 
+  <img src="github/3.jpg" width="256"/> 
 </p>
 
+* [Screenshot](#screenshot)
 * [Important Note](#important-note)
 * [Requisites](#requisites)
 * [Setup](#setup)
   * [Test Example](#test-example)
 * [References](#references)
+
+## Screenshot
+
+<img src="github/4.jpg">
+<img src="github/5.jpg">
+<img src="github/6.jpg">
 
 ## Important Note
 
