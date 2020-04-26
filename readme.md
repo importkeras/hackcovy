@@ -11,7 +11,7 @@
 * [Important Note](#important-note)
 * [Requisites](#requisites)
 * [Setup](#setup)
-  * [Test Example](#test-example)
+  * [Run code](#run-code)
 * [References](#references)
 
 ## Screenshot
@@ -35,16 +35,22 @@ First clone the repository:
 git clone https://github.com/importkeras/hackcovy.git
 ```
 
+Download 3 trained models (covid_1.pkl, covid_1.model, covid_new.model) and put to folder:
+```
+https://drive.google.com/drive/folders/1XkSnNqltwcW7DOT2nidVfmzIg3tV6sTQ?usp=sharing
+```
+
 Next, run the following command, which will install the required packages via
 ```
 pip install -r requirements.txt
 ```
 
-### Test Example
+### Run code
 
+The main and GUI code is in hackcovy.py.
 To test whether the setup was successful, run the following command to use program GUI.
 ```
-python hackcovy.py
+python hackcovy.py.
 ```
 
 ## References
