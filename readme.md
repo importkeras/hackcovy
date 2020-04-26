@@ -33,7 +33,6 @@ This repository is for reference only, so there may be errors, need to wait for 
 First clone the repository:
 ```
 git clone https://github.com/importkeras/hackcovy.git
-cd SmartFit
 ```
 
 Next, run the following command, which will install the required packages via
@@ -43,7 +42,7 @@ pip install -r requirements.txt
 
 ### Test Example
 
-To test whether the setup was successful, run the following command.
+To test whether the setup was successful, run the following command to use program GUI.
 ```
 python hackcovy.py
 ```
